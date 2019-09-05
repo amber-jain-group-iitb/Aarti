@@ -1,0 +1,7 @@
+2000                            !!ntraj 
+2                            !!nstates  
+2                            !!newstate
+1001                         !!gridpoints
+2d3                           !!mass
+1                            !!timestep
+y
